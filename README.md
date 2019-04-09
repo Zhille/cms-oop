@@ -1,4 +1,4 @@
-# CMS-Gallery System / project in Object Oriented way. :)
+# CMS-Gallery System / project in PHP Object Oriented way. :)
 
 #Home
 So,on the main page navigation bar have only 2 bars, one is for 'Home' and another one is for Admin section, ofcourse you need to log in first if you want to access to Admin section. 
